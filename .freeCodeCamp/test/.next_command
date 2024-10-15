@@ -324,3 +324,8 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git init
 git remote add origin https://github.com/Mehak1578/fcc-celestial-bodies-project.git
 git add .
+git commit -m "Initial commit for FCC celestial bodies project"
+git push -u origin master
+git branch
+git checkout -b main
+git add .
